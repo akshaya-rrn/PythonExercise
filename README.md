@@ -1,0 +1,2 @@
+- No increment or decrement operator is allowed.  Only i-=1 pr i+=1
+- Multi line print statements are possible
