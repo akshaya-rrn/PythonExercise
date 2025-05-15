@@ -14,7 +14,6 @@ for item in grocery:
     print( " after deleting item ", item ," **********************")
 
 
-
 ##################### Set
 bri = set(['brazil', 'russia', 'india'])
 

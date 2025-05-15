@@ -1,2 +1,5 @@
 - No increment or decrement operator is allowed.  Only i-=1 pr i+=1
 - Multi line print statements are possible
+- Number types - int() and float()
+- The decimal module in Python provides a way to perform accurate decimal arithmetic. 
+- Unlike the built-in float type, which uses binary floating-point representation and can lead to rounding errors, the decimal type stores numbers as decimal fractions, preserving their exact values.
